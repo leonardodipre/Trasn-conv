@@ -1,0 +1,11 @@
+image_id,id,bbox,iscrowd,category_id_x,split,sentences,file_name,category_id_y,ann_id,sent_ids,ref_id
+131074,319598,"[299.12, 136.58, 241.7, 88.85]",0,65,train,"a bed in the bedroom with other bed also, on its right side",COCO_train2014_000000131074_319598.jpg,65,319598,"[40173, 40174]",20431
+524291,10608,"[279.7, 148.88, 348.54, 272.82]",0,18,train,standing dog,COCO_train2014_000000524291_10608.jpg,18,10608,"[46507, 46508]",47283
+524291,16521,"[0.0, 231.78, 285.83, 109.94]",0,18,train,"a black and white dog laying down, looking away from the camera",COCO_train2014_000000524291_16521.jpg,18,16521,"[92321, 92322]",40504
+524297,428468,"[376.07, 114.71, 93.06, 240.85]",0,1,train,a man with a mustache and a checked jacket,COCO_train2014_000000524297_428468.jpg,1,428468,"[19458, 19459]",12523
+393228,583192,"[84.63, 201.48, 196.19, 122.14]",0,22,train,a large adult elephant that is being followed by two small infant elephants,COCO_train2014_000000393228_583192.jpg,22,583192,"[90390, 90391]",39738
+131075,28421,"[20.23, 55.98, 313.49, 326.5]",0,72,train,"this is a display screen for presentations, showing exactly what the computer screen on the table",COCO_train2014_000000131075_28421.jpg,72,28421,"[74769, 74770]",33702
+131075,1101022,"[176.9, 381.12, 286.2, 136.63]",0,73,train,a table with a laptop in the middle,COCO_train2014_000000131075_1101022.jpg,73,1101022,"[25179, 25180]",14714
+131093,65450,"[297.79, 113.96, 138.65, 133.96]",0,20,train,a sheep with a black face,COCO_train2014_000000131093_65450.jpg,20,65450,"[43501, 43502]",21714
+25,598548,"[385.53, 60.03, 214.97, 297.16]",0,25,train,a tall brown and tan giraffe eating from a tree,COCO_train2014_000000000025_598548.jpg,25,598548,"[50072, 50073]",47450
+524314,348135,"[442.43, 77.91, 197.57, 177.93]",0,3,train,a reflection of a green car in a store window,COCO_train2014_000000524314_348135.jpg,3,348135,"[60895, 60896]",28382
